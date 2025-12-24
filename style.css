@@ -281,7 +281,7 @@ svg:hover{
 .img-container{
     border-radius: 50%;
     border: 5px solid var(--primary-color);
-    /* background-image: url(assetss/my\ img.png); */
+    background-image: url(assetss/my\ img.png);
     background-position: center;
     background-size: cover;
     background-clip: border-box;
@@ -323,7 +323,7 @@ svg:hover{
     width: 500px;
     border-radius: 50%;
     border: 5px solid var(--primary-color);
-    /* background-image: url(assetss/my\ img.png); */
+    background-image: url(assetss/my\ img.png); 
     background-position: center;
     background-size: cover;
     background-clip: border-box;
